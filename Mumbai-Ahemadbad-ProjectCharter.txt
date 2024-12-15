@@ -1,0 +1,9 @@
+Project Name - Mumbai Ahemadbad High Seepd Railway Project
+Project Type - Metro Project
+project Id - MUM-AHMD-METRO-01
+Project Start Date - 01-Jan-2025
+Project End Date - 31-Dec-2028
+Peoject Sponscerer - Central Governmne Of India
+Peoject Owner - Amit Shaha
+Stake Holder - Devendra Phadnvis/Chif Ministor Of Maharashtra/Chif Ministof or Ahemadbad/Railway Of India.
+Budget: 4500 CR
